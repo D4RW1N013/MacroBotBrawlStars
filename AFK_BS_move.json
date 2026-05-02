@@ -1,0 +1,3236 @@
+[
+  {
+    "name": "afk bs",
+    "steps": [
+      {
+        "action": "Taste: F",
+        "duration_ms": 100,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 49,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 149,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 119,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 129,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 2200,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: A",
+        "duration_ms": 700,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: E",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: Q",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 70,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: D",
+        "duration_ms": 900,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1500,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 1,
+        "delay_after_ms": 99,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 100,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1710,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1240,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: F",
+        "duration_ms": 100,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 610,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: W",
+        "duration_ms": 1950,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Maus: Linksklick",
+        "duration_ms": 50,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Taste: S",
+        "duration_ms": 1340,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      },
+      {
+        "action": "Leertaste",
+        "duration_ms": 120,
+        "delay_after_ms": 0,
+        "mouse_x": 0,
+        "mouse_y": 0
+      }
+    ],
+    "loop_timer_hours": 0,
+    "repeat_count": 0
+  }
+]
